@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Pathshala - User
+                    Multi-Docker-Container-Apllications
                 </div>
 
                 {{-- <div class="links">
