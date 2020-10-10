@@ -6,7 +6,7 @@
 
 clone the project and cd to the project
 
-$ git clone https://github.com/GopiPacha1996/Laravel.git && cd Laravel
+$ git clone https://github.com/GopiPacha1996/multi-docker.git && cd Laravel
 
 # step-2:-
 
