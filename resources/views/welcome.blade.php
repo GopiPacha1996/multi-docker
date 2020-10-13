@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Multi-Docker-Container-Apllication
+                    Multi-Container-Laravel-App
                 </div>
 
                 {{-- <div class="links">
